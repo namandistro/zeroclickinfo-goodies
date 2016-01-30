@@ -1,0 +1,302 @@
+{
+   "id" : "gujarati_cheat_sheet",
+   "name" : "gujarati Cheat Sheet",
+   "description" : "Basic gujarati words and phrases",
+   "metadata" : {
+      "sourceName" : "Omniglot",
+      "sourceUrl" : "http://www.omniglot.com/writing/gujarati.php"
+   },
+   "aliases": [
+       "Gujarati phrases", "english to gujarati", "basic Gujarati phrases", "basic Gujarati"
+   ],
+   "template_type": "language",
+   "section_order" : [
+      "Basics",
+      "Getting Help",
+      "Travelling",
+      "Etiquette",
+      "Going out for dinner"
+   ],
+   "description" : "Basic gujarati words and phrases",
+   "sections" : {
+      "Etiquette" : [
+         {
+            "key" : "Good morning",
+            "val" : "સુપ્રભાત",
+            "trn" : "Suprabhat"
+         },
+         {
+            "key" : "Good evening",
+            "val" : "શુભ સાંજযা",
+            "trn" : "Śubha sān̄ja"
+         },
+         {
+            "key" : "Good night",
+            "val" : "શુભ રાત્રીি",
+            "trn" : "Śubha rātrī"
+         },
+         {
+            "key" : "I'm sorry.",
+            "val" : "હું દિલગીર છું",
+            "trn" : "Huṁ dilagīra chuṁ"
+         },
+         {
+            "key" : "Thank you",
+            "val" : "આભાર",
+            "trn" : "Ābhāra"
+         },
+         {
+            "key" : "Please",
+            "val" : "કૃપા કરીને",
+            "trn" : "Kr̥pā karīnē"
+         },
+         {
+            "key" : "Thank you very much!",
+            "val" : "ખુબ ખુબ આભાર!",
+            "trn" : "Khuba khuba ābhāra!"
+         },
+         {
+            "key" : "You're welcome",
+            "val" : "તમારા માટે આપનું સ્વાગત છે",
+            "trn" : "Tamārā māṭē āpanuṁ svāgata chē"
+
+         },
+         {
+            "key" : "How are you?",
+            "val" : "તમે કેમ છો?",
+            "trn" : "Tamē kēma chō?"
+         },
+         {
+            "key" : "Good luck!",
+            "val" : "સારા નસીબ!",
+            "trn" : "Sārā nasība!"
+         },
+         {
+            "key" : "Pleased to meet you.",
+            "val" : "તમને મળવા થી ખુશી થઇ",
+            "trn" : "Tamanē maḷavā thī khuśī tha'i"
+         },
+         {
+            "key" : "Goodbye !",
+            "val" : "ગુડબાય!",
+            "trn" : "Guḍabāya!"
+         }
+      ],
+      "Getting Help" : [
+         {
+            "key" : "Call the police!",
+            "val" : "પોલીસ કૉલ!",
+            "trn" : "Pōlīsa kŏla"
+         },
+         {
+            "key" : "Can you speak more slowly, please?",
+            "val" : "તમે વધુ ધીમે ધીમે વાત કરી શકો છો કૃપા કરીને?",
+            "trn" : "Tamē vadhu dhīmē dhīmē vāta karī śakō chō kr̥pā karīnē"
+         },
+         {
+            "key" : "Can you repeat, please?",
+            "val" : "તમે કૃપા કરીને પુનરાવર્તન કરી શકો છો?",
+            "trn" : "Tamē kr̥pā karīnē punarāvartana karī śakō chō"
+         },
+       
+         {
+            "key" : "Stop!",
+            "val" : "બંધ!",
+            "trn" : "Bandha"
+         },
+         {
+            "key" : "Do you speak English?",
+            "val" : "તમે ઇંગલિશ વાત કરી?",
+            "trn" : "Tamē iṅgaliśa vāta karī"
+         },
+         {
+            "key" : "Excuse me!",
+            "val" : "માફ કરશો!",
+            "trn" : "Māpha karaśō"
+
+         },
+         {
+            "key" : "I need a doctor!",
+            "val" : "હું એક ડૉક્ટર જરૂર!",
+            "trn" : "Huṁ ēka ḍŏkṭara jarūra"
+         },
+         {
+            "key" : "Can you write that down, please?",
+            "val" : "તમે લખી શકો છો નીચે કૃપા કરીને?",
+            "trn" : "Tamē lakhī śakō chō nīcē kr̥pā karīnē"
+         },
+         {
+            "key" : "Call an ambulance!",
+            "val" : "એક એમ્બ્યુલન્સ કૉલ!",
+            "trn" : "Ēka ēmbyulansa kŏla"
+         },
+         {
+            "key" : "I am in danger!",
+            "val" : "ભય IM!",
+            "trn" : "Bhaya IM"
+         },
+         {
+            "key" : "Can you help me?",
+            "val" : "તમે મને મદદ કરી શકો છો?",
+            "trn" : "Tamē manē madada karī śakō chō"
+         },
+         {
+            "key" : "Fire!",
+            "val" : "આગ!",
+            "trn" : "Āga"
+         },
+         {
+            "key" : "Help!",
+            "val" : "મદદ!",
+            "trn" : "Madada"
+         }
+      ],
+      "Basics" : [
+         {
+            "key" : "My name is...",
+            "val" : "મારું નામ...",
+            "trn" : "Māruṁ nāma"
+         },
+         {
+            "key" : "I'm fine, thanks!",
+            "val" : "હું સારો છું આભાર!",
+            "trn" : "Huṁ sārō chuṁ ābhāra!"
+         },
+         {
+            "key" : "How are you?",
+            "val" : "તમે કેમ છો ?",
+            "trn" : "Tamē kēma chō?"
+         },
+         {
+            "key" : "Hello",
+            "val" : "હેલો",
+            "trn" : "Hēlō"
+         },
+         {
+            "key" : "Welcome",
+            "val" : "આપનું સ્વાગત છે",
+            "trn" : "Āpanuṁ svāgata chē"
+         },
+         {
+            "key" : "What's your name?",
+            "val" : "તમારુ નામ શુ છે?",
+            "trn" : "Tamāru nāma śu chē"
+         }
+      ],
+      "Travelling" : [
+         {
+            "key" : "Turn left.",
+            "val" : "બાકી ચાલુ",
+            "trn" : "Bākī cālu"
+         },
+         {
+            "key" : "Where is the exit?",
+            "val" : "જ્યાં બહાર નીકળો છે?",
+            "trn" : "Jyāṁ bahāra nīkaḷō chē"
+         },
+         {
+            "key" : "Where?",
+            "val" : "જ્યાં?",
+            "trn" : "Jyāṁ?"
+         },
+         {
+            "key" : "Is it far?",
+            "val" : "તે દૂર છે ?",
+            "trn" : "Tē dūra chē?"
+         },
+         {
+            "key" : "Go straight ahead.",
+            "val" : "આગળ straigth જાઓ",
+            "trn" : "Āgaḷa straigth jā'ō"
+         },
+         {
+            "key" : "Do you have a city map?",
+            "val" : "તમે એક શહેર નકશો છે?",
+            "trn" : "Tamē ēka śahēra nakaśō chē?"
+         },
+         {
+            "key" : "Please stop here.",
+            "val" : "અહીં બંધ કરો",
+            "trn" : "Ahīṁ bandha karō"
+
+         },
+         {
+            "key" : "Turn right.",
+            "val" : "જમણી ચાલુ",
+            "trn" : "Jamaṇī cālu"
+         },
+         {
+            "key" : "Where can I find the taxis?",
+            "val" : "જ્યાં હું ટેક્સી શોધી શકો છો?",
+            "trn" : "Jyāṁ huṁ ṭēksī śōdhī śakō chō"
+         },
+         {
+            "key" : "How can I get a taxi?",
+            "val" : "કેવી રીતે Cani એક ટેક્સી મળી?",
+            "trn" : "Kēvī rītē Cani ēka ṭēksī maḷī"
+         }
+      ],
+      "Going out for dinner" : [
+         {
+            "key" : "Do you have vegetarian dishes?",
+            "val" : "તમે શાકાહારી વાનગીઓ હોયি?",
+            "trn" : "Tamē śākāhārī vānagī'ō hōya"
+         },
+         {
+            "key" : "Main dish",
+            "val" : "મુખ્ય વાનગી",
+            "trn" : "Mukhya vānagī"
+         },
+         {
+            "key" : "Entry",
+            "val" : "પ્રવેશ",
+            "trn" : "Pravesh"
+         },
+         {
+            "key" : "I am allergic.",
+            "val" : "હું એલર્જીક છું",
+            "trn" : "Huṁ ēlarjīka chuṁ"
+         },
+         {
+            "key" : "Dessert",
+            "val" : "મીઠાઈ",
+            "trn" : "Mīṭhā'ī"
+         },
+         {
+            "key" : "The check please!",
+            "val" : "બિલ આપશો!",
+            "trn" : "Bila āpaśō"
+         },
+         {
+            "key" : "A cup of coffee please.",
+            "val" : "કોફી એક કપ કૃપા કરીને",
+            "trn" : "Kōphī ēka kapa kr̥pā karīnē"
+         },
+         {
+            "key" : "Do you have gluten-free dishes?",
+            "val" : "તમે ધાન્યના લોટમાં રહેલું નત્રિલ મફત વાનગીઓ છે?",
+            "trn" : "Tamē dhān'yanā lōṭamāṁ rahēluṁ natrila maphata vānagī'ō chē?"
+         },
+         {
+            "key" : "Where is a good restaurant?",
+            "val" : "જ્યાં સારી રેસ્ટોરન્ટ છે?",
+            "trn" : "Jyāṁ sārī rēsṭōranṭa chē"
+         },
+         {
+            "key" : "A glass of water please.",
+            "val" : "એક ગ્લાસ પાણીમાં કૃપા કરીને",
+            "trn" : "Ēka glāsa pāṇīmāṁ kr̥pā karīnē"
+         },
+         {
+            "key" : "A table for two please!",
+            "val" : "બે માટે એક ટેબલ કૃપા કરીને।",
+            "trn" : "Bē māṭē ēka ṭēbala kr̥pā karīnē"
+         },
+         {
+            "key" : "Can I get a menu, please?",
+            "val" : "હું મેનુ મેળવી શકો છો કૃપા કરીને?",
+            "trn" : "Huṁ mēnu mēḷavī śakō chō kr̥pā karīnē?"
+         }
+      ]
+   }
+}
